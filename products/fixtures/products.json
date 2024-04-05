@@ -219,20 +219,7 @@
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1119201520340305C.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "DP1119201520340305C.jpg"
     }
-}, {
-    "pk": 18,
-    "model": "products.product",
-    "fields": {
-        "sku": "pp5003090182",
-        "name": "Marvel Comics Avengers Hulk Pillow Buddy",
-        "description": "The Hulk may be tough, but he's actually a real softy. Get to know his softer side with this fun Hulk-shaped pillow.  adds a playful layer of texture and comfort to bed's decor measures 15x9x20\"H Polyester with polyester fill. Spot clean. Imported.",
-        "price": 59.99,
-        "category": 2,
-        "rating": 4.8,
-        "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0807201317072274M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-        "image": "DP0807201317072274M.jpg"
-    }
-}, {
+},  {
     "pk": 19,
     "model": "products.product",
     "fields": {
